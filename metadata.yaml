@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25995
     wikipedia: http://en.wikipedia.org/wiki/Robert_Arthur,_Jr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29618#The-Aggravation-of-Elmer
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-08-05'
 gutenberg_type: Text
